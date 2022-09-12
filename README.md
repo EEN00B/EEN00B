@@ -1,2 +1,2 @@
 
-Just some where to store my code, PCB, notes
+Just somewhere to store my code, PCB, notes
